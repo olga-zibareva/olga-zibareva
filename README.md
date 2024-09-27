@@ -21,9 +21,9 @@ My primary tool is *Python*. I work in *Jupyter Notebook*, and my toolbox includ
 
 
 
-**ПОРТФОЛИО**
+**PORTFOLIO**
 
-**Некоторые из моих проектов**
+**Some of my projects**
 
 |Проект|Описание|Стек|
 |--------------------|--------------------------------------------------|--------------------------|
